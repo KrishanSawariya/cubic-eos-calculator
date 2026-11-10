@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Reports (keep code open but don't expose assignment zip)
+*.zip
+report.pdf
+
+# OS
+.DS_Store
+Thumbs.db
